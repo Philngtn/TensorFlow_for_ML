@@ -20,7 +20,7 @@
   - Experiment with filters and pools
   - Exercise 3: Improved MNIST with convolutions
 
-### Week 3
+### Week 4
   - ImageGenerator
   - Complex ConvNet with validation
   - RMSprop and binary classification
